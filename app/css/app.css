@@ -1,0 +1,645 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: PT Serif;
+}
+a{
+    text-decoration: none;
+}
+.Adapting_FollowOur{
+    display: none;
+}
+#sedut{
+    font-size: 12px;
+}
+.Adapting_News{
+    display: none;
+}
+.Adapting_AboutTheAuthor{
+    display: none;
+}
+.Adapting_FeauturedPosts{
+    display: none;
+}
+.Adapting_Categories{
+    display: none;
+}
+.Adapting_SocialMedia{
+    display: none;
+}
+.Adapting_Tags{
+    display: none;
+}
+@media screen and (min-width:300px) and (max-width:400px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+
+}
+@media screen and (min-width:400px) and (max-width:500px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:500px) and (max-width:600px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:600px) and (max-width:700px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:700px) and (max-width:800px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:800px) and (max-width:900px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:900px) and (max-width:1000px){
+    .FollowOur{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    .Adapting_AboutTheAuthor{
+        display: block;
+    }
+    .Adapting_FeauturedPosts{
+        display: block;
+    }
+    .Adapting_Categories{
+        display: block;
+    }
+    .Adapting_SocialMedia{
+        display: block;
+    }
+    .Adapting_Tags{
+        display: block;
+    }
+    .Adapting_FollowOur{
+        display: block;
+        position: relative;
+        top: 7890px;
+    }
+    .Adapting_News{
+        display: block;
+        position: relative;
+        margin-top: -2800px;
+        left: 200px;
+    }
+    #Bitmap1,#Bitmap2,#Bitmap3{
+        position: relative;
+        right: 165px;
+    }
+    .navbar-collapse{
+        position: relative;
+        right: 800px;
+    }
+    .Pagination .btn-toolbar{
+        position: relative;
+        top: 1900px;
+    }
+    aside{
+        position: relative;
+        top: 2000px;
+    }
+    .news{
+        display: none;
+    }
+    .Footer{
+        position: relative;
+        top: 10090px;
+    }
+    .Adapting_News .sportadaptings{
+        position: relative;
+        right: 165px;
+    }
+    .Pagination{
+        position: relative;
+        top: 6200px;
+        left: 40px;
+    }
+    .Tags{
+        position: relative;
+        top: 5890px;
+    }
+    .SocialMedia{
+        position: relative;
+        top: 5890px;
+    }
+    .Categories{
+        position: relative;
+        top: 5890px;
+    }
+    .FeauturedPosts{
+        position: relative;
+        top: 5890px;
+    }
+    .AboutTheAuthor{
+        position: relative;
+        top: 5890px;
+    }
+}
+@media screen and (min-width:1000px) and (max-width:1500px){
+    .Head ul{
+        position: relative;
+        right: 430px;
+    }
+    .AboutTheAuthor,.FeauturedPosts,.Categories,.SocialMedia,.Tags{
+        position: relative;
+        left: 500px;
+    }
+}

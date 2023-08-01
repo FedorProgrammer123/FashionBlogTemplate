@@ -1,0 +1,20 @@
+.Footer a{
+    color: #666;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Footer p{
+    color: #666;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Footer img:hover{
+    cursor: pointer;
+    background-color: #C9A96E;
+}

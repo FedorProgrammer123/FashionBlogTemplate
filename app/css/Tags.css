@@ -1,0 +1,94 @@
+.Tags .btn-info{
+    width: 270px;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: #ffffff;
+    border: 1px solid #E5E5E5;
+    color: #171717;
+    text-align: center;
+    font-family: PT Serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Tags .btn-info:hover{
+    background: #29dde3;
+    color: #ed1aea;
+    transition: 1.5s all ease;
+}
+.Tags .elements{
+    background: #F8F9FA;
+    color: #666;
+    font-family: PT Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: 0;
+}
+#Business{
+    width: 84px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Freelance{
+    width: 91px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Money{
+    width: 72px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Experience{
+    width: 100px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Lifestyle{
+    width: 82px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#SEO{
+    width: 58px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Wordpress{
+    width: 98px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Marketing{
+    width: 93px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#UX{
+    width: 49px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Modern{
+    width: 79px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Sucess{
+    width: 79px;
+    height: 30px;
+    flex-shrink: 0;
+}
+#Nature{
+    width: 72px;
+    height: 30px;
+    flex-shrink: 0;
+}
+.Tags{
+    float: right;
+    margin-top: -800px;
+    margin-right: 20px;
+}

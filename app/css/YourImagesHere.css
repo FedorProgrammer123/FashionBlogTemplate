@@ -1,0 +1,53 @@
+.YouImagesHere{
+    width: 100%;
+    height: 1278px;
+    background: url('../Img/Yourimageshere.svg') no-repeat;
+}
+.Vehicle{
+    width: 52px;
+    height: 18px;
+    color: #FFF;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.OneOfSaturn{
+    width: 560px;
+    height: 100px;
+    color: #FFF;
+    font-family: PT Serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+}
+.June{
+    width: 283px;
+    height: 19px;
+    color: #FFF;
+    font-family: PT Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 50px;
+}
+.Text{
+    padding-top: 400px;
+    padding-left: 200px;
+}
+.By{
+    display: block;
+    color: #B4B4B4;
+    font-family: PT Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Rickle{
+    padding-left: 10px;
+}
